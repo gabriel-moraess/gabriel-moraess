@@ -1,41 +1,59 @@
-## Gabriel Moraes
+<h1 align="center">Gabriel Moraes 👋</h1>
 
-🎯  Olá, meu nome é Gabriel, profissional da área financeira em transição para Análise de Dados, com foco em transformar dados em insights estratégicos para tomada de decisão.
+<p align="center">
+🎓 Pós-graduando em Data Analytics (FIAP) • 📊 Business Intelligence • 📈 Análise de Dados
+</p>
 
-🚀 Sobre mim
+## Sobre mim
 
-Tenho formação em Administração e experiência prática na área financeira, atuando com rotinas como controle de contas, fluxo de caixa, conciliação e análise de dados operacionais e controladoria. Ao longo da minha trajetória, desenvolvi uma forte habilidade analítica e atenção a detalhes — competências essenciais para trabalhar com dados.
+Sou graduado em Administração e pós-graduando em **Data Analytics pela FIAP**, em transição para a área de Dados.
 
-Atualmente, estou cursando Pos-Graduação em Data Analytics pela FIAP e direcionando minha carreira para a área de dados, aprofundando conhecimentos em ferramentas de BI e técnicas que me permitam extrair valor real das informações.
+Minha experiência em **Controladoria e Finanças** me proporcionou uma visão analítica do negócio, trabalhando com indicadores, orçamento, fluxo de caixa e relatórios gerenciais para apoiar a tomada de decisões.
 
-💼 Experiência
+Atualmente desenvolvo projetos de **Business Intelligence e Análise de Dados**, transformando dados em dashboards, indicadores e insights utilizando ferramentas modernas de análise.
 
-📊 Atuação na área financeira
-Analista de BI e Controladoria
-Controle e análise de contas a pagar e receber
-Conciliação financeira e identificação de inconsistências
-Interface com outras áreas (como compras) para resolução de problemas
-Melhoria de processos para evitar erros e duplicidades em sistemas
+---
 
-🛠️ Habilidades
-Excel (avançado)
-Power BI (criação de dashboards e análise de dados)
-Organização e análise de dados financeiros
+## Tecnologias
 
-📚 Atualmente estudando:
+- 📊 Power BI
+- 🐍 Python
+- 🗄️ SQL
+- 📑 Excel Avançado
+- 📂 Git & GitHub
 
-Python para análise de dados, SQL e Linguagem DAX para Power BI
+---
 
-🎯 Objetivo
+## O que você encontrará aqui
 
-Busco uma oportunidade na área de Análise de Dados/BI, onde eu possa aplicar minha experiência de negócios aliada às habilidades técnicas em desenvolvimento, contribuindo para decisões mais estratégicas e orientadas por dados.
+✔️ Dashboards executivos em Power BI
 
-📈 Em constante evolução
+✔️ Projetos de análise exploratória de dados (EDA)
 
-Estou sempre estudando e desenvolvendo projetos práticos para aprimorar minhas habilidades em dados. Em breve, você encontrará aqui novos projetos que estão em desenvolvimento.
+✔️ Tratamento e transformação de dados (ETL)
 
+✔️ Estudos de Python aplicados à análise de dados
 
+✔️ Projetos desenvolvidos durante a pós-graduação e estudos pessoais
 
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/gabriel-moraes-470703128/
-Email: gabriel.moraesss86@gmail.com
+---
+
+## Objetivo
+
+Busco oportunidades como:
+
+- Analista de BI Júnior
+- Analista de Dados Júnior
+- Business Intelligence
+- Analytics
+- Data Analyst
+
+Tenho interesse em contribuir com equipes orientadas por dados, utilizando análises e indicadores para apoiar decisões estratégicas e gerar valor para o negócio.
+
+---
+
+## Contato
+
+💼 LinkedIn: www.linkedin.com/in/gabriel-moraes-silva
+
+📧 E-mail: seuemail@email.com
