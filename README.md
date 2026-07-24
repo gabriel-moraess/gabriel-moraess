@@ -54,6 +54,6 @@ Tenho interesse em contribuir com equipes orientadas por dados, utilizando anál
 
 ## Contato
 
-💼 LinkedIn: www.linkedin.com/in/gabriel-moraes-silva
+💼 LinkedIn: [www.linkedin.com/in/gabriel-moraes-silva](https://www.linkedin.com/in/gabriel-moraes-470703128/)
 
-📧 E-mail: seuemail@email.com
+📧 E-mail: gabriel.moraesss86@gmail.com
