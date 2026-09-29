@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Moraes</h1>
 
 <p align="center">
-  <strong>Analista de Dados Júnior | Business Intelligence | Power BI | SQL | Python</strong>
+  <strong>Analista de Dados | Business Intelligence | Power BI | SQL | Python</strong>
 </p>
 
 <p align="center">
