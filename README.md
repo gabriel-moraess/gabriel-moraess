@@ -143,6 +143,6 @@ Inclui projetos envolvendo análise de e-commerce, análise exploratória, métr
 
 ## Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/gabriel-moraes-470703128/
+💼 LinkedIn: [https://www.linkedin.com/in/gabriel-moraes-470703128/](https://www.linkedin.com/in/gabriel-moraes-%E2%88%B4-470703128/)
 
 📧 Email: [gabriel.moraesss86@gmail.com](mailto:gabriel.moraesss86@gmail.com)
